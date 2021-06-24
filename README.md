@@ -2,6 +2,8 @@
 # VivecraftSteamVRLauncher
 AHK Script to launch Vivecraft directly from SteamVR
 
+***IMPORTANT***: In the launcher under 'Instalations" change the `Vivecraft` install name to `@@Vivecraft 1.x.x` you must do this or version 1.2 will not work.
+
 ***WARNING***: Your minecraft launcher exe file must be at 
 `C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe` *(default location)*
 
