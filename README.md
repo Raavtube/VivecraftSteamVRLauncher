@@ -1,5 +1,5 @@
 
-# VivecraftSteamVRLauncher
+# Vivecraft Steam VR Launcher
 AHK Script to launch Vivecraft directly from SteamVR
 
 ***IMPORTANT***: In the launcher under 'Instalations" change the `Vivecraft` install name to `@@Vivecraft 1.x.x` you must do this or version 1.2 will not work.
