@@ -1,5 +1,7 @@
 ﻿Process, Exist, "Minecraft Launcher"
 if ErrorLevel
+; Change those values to the location of the minecraft launcher.
+
 Run %comspec% /c "C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe"
 Run, C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe
 sleep, 10000
